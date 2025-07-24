@@ -1,0 +1,30 @@
+h1{
+    background-color: aqua;
+    border-radius: 10PX;
+    color: brown;
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 400PX;
+}
+h2
+{
+    background-color: aqua;
+    border-radius: 10PX;
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 400PX; 
+}
+h3{
+    text-align: center  ;
+    background-color:red;
+    color:aqua; 
+    border-radius: 5px;
+}
+#Bro  {
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+    border-radius: 10em;
+    
+}

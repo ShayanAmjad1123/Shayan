@@ -1,0 +1,14 @@
+.A{
+    position:relative;   
+    background-color: bisque;
+    height: 500px;
+}
+.D{
+    
+        background: greenyellow;
+        width: 150px;
+        margin-left: 100px;
+        height: 150px;
+        position: fixed;
+        left: 6em ;
+    }
